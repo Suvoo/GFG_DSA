@@ -3,4 +3,16 @@
 
 I will try to update this whenever possible along with the date of completion of each subtopic :
 
+| SubTopic        | Date Completed        | 
+| ------------- |:-------------:| 
+| Mathematics      | 15 August 2020 | 
+| Arrays      |       |  
+| Searching and Sorting |       |  
+
+***Contributors***
+
+[Suvodeep Sinha](https://github.com/Suvoo)
+
+
+
 
