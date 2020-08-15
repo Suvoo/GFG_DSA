@@ -8,6 +8,22 @@ I will try to update this whenever possible along with the date of completion of
 | Mathematics      | 15 August 2020 | 
 | Arrays      |       |  
 | Searching and Sorting |       |  
+| Strings |       |
+| Matrix |       |
+| Bit Magic |       |
+| Recursion |       |
+| Linked List |       |
+| Stacks |       |
+| Queue |       |
+| Hashing |       |
+| Trees |       |
+| BST |       |
+| Heaps |       |
+| Graphs |       |
+| Greedy |       |
+| Dynamic Programming |       |
+| Trie |       |
+
 
 ***Contributors***
 
