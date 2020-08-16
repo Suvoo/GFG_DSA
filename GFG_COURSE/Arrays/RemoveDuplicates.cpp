@@ -37,7 +37,7 @@ int32_t main() {
       for(int i=0;i<n;i++)
         cin >> a[i];
 
-        int ns = removeDuplicates(a,n);
+        int ns = removeDuplicates(a,n); //return new size
 
         for(int i=0;i<ns;i++){
             cout << a[i] << " ";
