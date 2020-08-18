@@ -6,7 +6,7 @@ I will try to update this whenever possible along with the date of completion of
 | SubTopic        | Date Completed        | 
 | ------------- |:-------------:| 
 | Mathematics      | 15 August 2020 | 
-| Arrays      |       |  
+| Arrays      | 18 August 2020      |  
 | Searching and Sorting |       |  
 | Strings |       |
 | Matrix |       |
