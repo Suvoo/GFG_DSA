@@ -1,4 +1,6 @@
-
+/* https://practice.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1/?track=ppc-matrix&batchId=221
+https://www.geeksforgeeks.org/determinant-of-a-matrix/
+*/
 
 import java.io.*;
 import java.util.*;
