@@ -9,7 +9,7 @@ I will try to update this whenever possible along with the date of completion of
 | Arrays      | 18 August 2020      |  
 | Searching and Sorting |       |  
 | Strings |       |
-| Matrix |       |
+| Matrix | 2 September 2020      |
 | Bit Magic |       |
 | Recursion |       |
 | Linked List |       |
