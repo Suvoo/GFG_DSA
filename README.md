@@ -27,6 +27,8 @@ I will try to update this whenever possible along with the date of completion of
 
 ***Contributors***
 
+<img width=20% src="https://avatars1.githubusercontent.com/u/52796258">
+
 [Suvodeep Sinha](https://github.com/Suvoo)
 
 
