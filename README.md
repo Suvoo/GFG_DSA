@@ -13,7 +13,7 @@ I will try to update this whenever possible along with the date of completion of
 | Bit Magic |       |
 | Recursion |       |
 | Linked List |       |
-| Stacks |       |
+| Stacks | 15 October 2020  |
 | Queue |       |
 | Hashing |       |
 | Trees |       |
