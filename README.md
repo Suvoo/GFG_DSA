@@ -14,7 +14,7 @@ I will try to update this whenever possible along with the date of completion of
 | Recursion |       |
 | Linked List |       |
 | Stacks | 15 October 2020  |
-| Queue |       |
+| Queue | 19 October 2020 (1 Graph ques remain)      |
 | Hashing |       |
 | Trees |       |
 | BST |       |
